@@ -12,7 +12,7 @@ the feature is explained below:-
 
 5)TLR(Teaching-learning resources)= Define resources as materials used by a teacher to supplement classroom instruction or to stimulate the interest of learners in simple quality content delivered to students.
 
-6)RPC(Research and Professional Practice) developing knowledge and experience, which are standard within a field or profession, and involves information-gathering procedures that are a part of the typical relationship between practitioners
+6)RPC(Research and Professional Practice) acquiring knowledge and experience that are common in a field or profession, which involves information-gathering techniques that are a part of the regular interaction amongst practitioners.
 
 7)GO(graduation Outcome)= To understand whether recent graduates are in employment, have continued with further study or are doing something else
 
@@ -20,4 +20,4 @@ the feature is explained below:-
 
 9)perc(peer perception):- College perception in the market, stakeholder, facility perception, student perception, perception of other universities for you.
 
-10)total:- overall percentage(%)
+10)total:- overall percentage
