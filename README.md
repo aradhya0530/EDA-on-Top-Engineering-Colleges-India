@@ -20,4 +20,4 @@ the feature is explained below:-
 
 9)perc(peer perception):- College perception in the market, stakeholder, facility perception, student perception, perception of other universities for you.
 
-10)total:- overall percentage
+10)total:- overall percentage(%)
