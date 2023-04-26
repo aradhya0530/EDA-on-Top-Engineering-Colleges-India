@@ -18,6 +18,6 @@ the feature is explained below:-
 
 8)OI(outreach and inclusivity)=> It contains the following factors the number of students from another state or countries, per cent of women, facility for physically challenged student
 
-9)perc(peer perception):- College perception in the market, stakeholder, facility perception, student perception, perception of other universities for you.
+9)perc(peer perception):- College  in the market, stakeholder, facility perception, student perception, perception of other universities for you.
 
 10)total:- Overall percentage
