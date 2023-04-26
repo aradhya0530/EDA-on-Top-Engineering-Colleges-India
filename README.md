@@ -4,7 +4,7 @@ the feature is explained below:-
 
 1)rank:- 1-300 ranking of the college according to different parameters
 
-2)name:- Name of the respective college
+2)name:- Name of the respective colleges
 
 3)ownership:- Which organization own the college there are two values either public or private
 
