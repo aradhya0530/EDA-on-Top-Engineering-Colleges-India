@@ -14,7 +14,7 @@ the feature is explained below:-
 
 6)RPC(Research and Professional Practice) acquiring knowledge and experience that are common in a field or profession, which involves information-gathering techniques that are a part of the regular interaction amongst practitioners.
 
-7)GO(graduation Outcome)= To understand whether recent graduates are in employment, have continued with further study or are doing something else
+7)GO(graduation Outcome)= To understand whether the recent graduates are in employment, have continued with further study or are doing something else
 
 8)OI(outreach and inclusivity)=> It contains the following factors the number of students from another state or countries, per cent of women, facility for physically challenged student
 
